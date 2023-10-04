@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IntelliJ IDEA
+Comment=
+Exec=idea
+Icon=/opt/idea/bin/idea.svg
+Path=
+Terminal=false
+StartupNotify=false
